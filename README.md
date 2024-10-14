@@ -1,1 +1,2 @@
 # SPPU-TE-Assignments-PICT
+This repository contains college assignments for the Third Year Engineering (TE) curriculum. It includes solutions and resources for various subjects, covering topics such as System Programming, Computer Networks, Database Management Systems, Theory of Computation, Operating Systems, and Human-Computer Interaction. Each folder contains assignment-specific documentation, code implementations, and reports.It covers assignments for LP1, DBMS and CNSL Laboratory.
